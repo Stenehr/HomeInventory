@@ -12,7 +12,7 @@ src\HomeInventory\appsettings.json failis
 
 ## Käivitamine
 
-1. Reacti poolne osa on builditud juba rakenduse wwwroot kausta, et piisab src\HomeInventory kaustas "dotnet run" käsu kasutamisest - navigeerides brauseris http://localhost:5001 peaks avanema esileht.
+1. Reacti poolne osa on builditud juba rakenduse wwwroot kausta, et piisab src\HomeInventory kaustas "dotnet run" käsu kasutamisest - navigeerides brauseris https://localhost:5001 peaks avanema esileht.
 2. Kui reacti rakendust eraldi vaja jooksutada on, siis on tarvis node ja npm olemasolu. Tuleks veebiprojekt tööle panna nagu step 1 kirjeldatud. src\home-inventory-client kaustas kõigepealt käsurealt jooksutada "npm install", et vajalikud pakid installida. Kui pakid installitud jooksutada käsurealt "npm run" seejärel võib navigeerida brauseris http://localhost:3000
 
 ## Muu info
